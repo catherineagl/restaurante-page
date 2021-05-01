@@ -82,9 +82,9 @@ homeBtn.addEventListener('click', ()=> {
 menuBtn.addEventListener('click', ()=> {
     main.firstChild.replaceWith(createMenu());
 })
-secondMenuBtn.addEventListener('click', () => {
+/*secondMenuBtn.addEventListener('click', () => {
     main.firstChild.replaceWith(createMenu());
-})
+})*/
 
 //CONTACT INTERACTION 
 
